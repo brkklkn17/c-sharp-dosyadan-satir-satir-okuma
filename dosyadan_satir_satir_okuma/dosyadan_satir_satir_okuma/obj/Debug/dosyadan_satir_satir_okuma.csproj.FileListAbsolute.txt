@@ -1,0 +1,15 @@
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\bin\Debug\dosyadan_satir_satir_okuma.exe.config
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\bin\Debug\dosyadan_satir_satir_okuma.exe
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\bin\Debug\dosyadan_satir_satir_okuma.pdb
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma.csprojAssemblyReference.cache
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\MainWindow.g.cs
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\App.g.cs
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma_MarkupCompile.cache
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma_MarkupCompile.lref
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\MainWindow.baml
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma.g.resources
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma.Properties.Resources.resources
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma.csproj.GenerateResource.cache
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma.csproj.CoreCompileInputs.cache
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma.exe
+C:\Users\brkklkn17\source\repos\dosyadan_satir_satir_okuma\dosyadan_satir_satir_okuma\obj\Debug\dosyadan_satir_satir_okuma.pdb
